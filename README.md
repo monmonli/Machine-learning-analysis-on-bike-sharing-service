@@ -1,1 +1,4 @@
 # Machine-learning-analysis-on-bike-sharing-service
+## A Quick Wrap-up of My First Undergraduate Research (2022.3-2022.6)
+
+Our research focused on exploring socially optimal government policies for managing shared bikes. Utilizing big data and machine learning techniques, I analyzed residents' urban mobility patterns and transportation mode choices across various regions of Ningbo. This analysis aids in optimizing the network of transportation facilities, such as selecting shared bike parking stations and planning future deployment of shared bicycles. In this repository, I have included the work on two methods for predicting the number of bikes people will borrow hourly, as well as the map showcasing our clustering results.
